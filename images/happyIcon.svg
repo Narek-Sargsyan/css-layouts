@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="78.83" viewBox="0 0 110 78.83">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #1c8bfa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 2.613;
+        stroke-width: 5px;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Layer_x0020_1" transform="translate(2.479 2.479)">
+    <g id="_2193949866528" transform="translate(0.021 18.407)">
+      <path id="Path_49" data-name="Path 49" class="cls-1" d="M46.416,18.935V12.759A12.445,12.445,0,0,0,34.063.406H12.374A12.445,12.445,0,0,0,.021,12.759v6.176" transform="translate(-0.021 36.509)"/>
+      <path id="Path_50" data-name="Path 50" class="cls-1" d="M24.8,12.5A12.354,12.354,0,1,0,12.45,24.711,12.352,12.352,0,0,0,24.8,12.5Z" transform="translate(10.82 -0.149)"/>
+      <path id="Path_51" data-name="Path 51" class="cls-1" d="M46.682,18.935V12.759A12.445,12.445,0,0,0,34.329.406m-21.546,0A12.352,12.352,0,0,0,.43,12.759v6.176M12.783.406c0,13.215,21.546,13.215,21.546,0" transform="translate(58.318 36.509)"/>
+      <path id="Path_52" data-name="Path 52" class="cls-1" d="M25.211,12.5A12.354,12.354,0,1,0,12.858,24.711,12.352,12.352,0,0,0,25.211,12.5Z" transform="translate(69.016 -0.149)"/>
+    </g>
+    <path id="Path_53" data-name="Path 53" class="cls-2" d="M12.226,4.474C13.662,1.6,15.1.021,18.115.021A5.947,5.947,0,0,1,24,6.054c0,5.889-5.889,7.469-11.778,13.358C6.193,13.523.3,11.943.3,6.054A5.947,5.947,0,0,1,6.193.021c3.016,0,4.453,1.58,6.033,4.453Z" transform="translate(40.367 0)"/>
+  </g>
+</svg>

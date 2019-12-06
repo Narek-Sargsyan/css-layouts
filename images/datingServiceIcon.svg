@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.8" height="88.5" viewBox="0 0 71.8 88.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1c8bfa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path id="shield" class="cls-1" d="M37.4,85.5S70.8,68.8,70.8,43.75V14.525L37.4,2,4,14.525V43.75C4,68.8,37.4,85.5,37.4,85.5Z" transform="translate(-1.5 0.5)"/>
+</svg>

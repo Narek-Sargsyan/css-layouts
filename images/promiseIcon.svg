@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.894" height="86.703" viewBox="0 0 105.894 86.703">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1c8bfa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="user-check_1_" data-name="user-check (1)" transform="translate(1.5 -0.5)">
+    <path id="Path_47" data-name="Path 47" class="cls-1" d="M69.085,42.234V33.156A18.156,18.156,0,0,0,50.929,15H19.156A18.156,18.156,0,0,0,1,33.156v9.078" transform="translate(0 42.468)"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="18.156" cy="18.156" rx="18.156" ry="18.156" transform="translate(16.887 3)"/>
+    <path id="Path_48" data-name="Path 48" class="cls-1" d="M17,18.078l9.078,9.078L44.234,9" transform="translate(56.624 21.234)"/>
+  </g>
+</svg>
